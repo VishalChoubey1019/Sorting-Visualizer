@@ -4,8 +4,8 @@
 <br>
 Make sure you've installed tkinter in your system to use this visualizer
 <br>
-<br>
 ### To install tkinter using python package manager, run the following:
+<br>
 pip install tk 
 <br>
 <br> 
