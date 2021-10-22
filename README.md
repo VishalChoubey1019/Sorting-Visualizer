@@ -14,7 +14,11 @@ https://www.tutorialspoint.com/how-to-install-tkinter-in-python
 <br>
 <br>
 
-The visualizer has 1) Merge Sort 2) Selection Sort 3) Bubble Sort 4) Insertion Sort
+The visualizer has: <br>
+1) Merge Sort <br>
+2) Selection Sort <br>
+3) Bubble Sort <br>
+4) Insertion Sort
 <br>
 <br>
 Various colours are used to make the visualizer easily understandable.
