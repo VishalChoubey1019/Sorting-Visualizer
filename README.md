@@ -1,7 +1,7 @@
 # Sorting-Visualizer
 <h1> This is a sorting visualizer made with Tkinter. </h1>
 <br>
----
+<br>
 Make sure you've installed tkinter in your system to use this visualizer
 <br>
 pip install tk 
