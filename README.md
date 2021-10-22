@@ -1,5 +1,5 @@
 # Sorting-Visualizer
-<h1> This is a sorting visualizer made with Tkinter. </h1>
+<h3> This is a sorting visualizer made with Tkinter. </h3>
 <br>
 <br>
 Make sure you've installed tkinter in your system to use this visualizer
