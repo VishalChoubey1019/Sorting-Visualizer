@@ -1,5 +1,6 @@
 # Sorting-Visualizer
 <h3> This is a sorting visualizer made with Tkinter. </h3>
+<a href="https://replit.com/@VishalChoubey/Sorting-Visualizer?v=1"> Click on this link to use the visualizer </a>
 <br>
 <br>
 Make sure you've installed tkinter in your system to use this visualizer
