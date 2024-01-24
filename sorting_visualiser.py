@@ -134,7 +134,7 @@ def sort():
                 if (arr[i]>arr[j]):
                     arr[i], arr[j] = arr[j], arr[i]  #SWAP
 
-                    displayArr(arr, ["yellow" if x == j or x == j+1 else "blue" for x in range(len(arr))])
+                    displayArr(arr, ["yellow" if x == i else "red" if x == j+1 else "blue" for x in range(len(arr))])
                     time.sleep(tym)
                         
         displayArr(arr, ["blue" for x in range(len(arr))])
@@ -218,4 +218,3 @@ canvas.grid(row=1, column=0, padx=10, pady=5)
 
 
 root.mainloop()
-
